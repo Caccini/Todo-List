@@ -1,0 +1,38 @@
+body {
+  background: #f8f0fb;
+}
+
+header {
+  color: #1a0920;
+}
+
+label {
+  color: #1a0920;
+}
+ {
+  color: #1a0920;
+}
+.container {
+  max-width: 400px;
+}
+input[type="text"],
+input[type="text"]:focus {
+  color: #1a0920;
+  border: none;
+  background: #f0dff6;
+  max-width: 400px;
+}
+
+.list-group {
+  color: #1a0920;
+}
+.todos li {
+  background: #e1bfed;
+}
+.delete {
+  cursor: pointer;
+}
+
+.filtered {
+  display: none !important;
+}
